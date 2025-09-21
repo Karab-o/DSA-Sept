@@ -114,8 +114,8 @@ class TestStack(unittest.TestCase):
             self.stack.push(i)
             actual_sizes.append(self.stack.size())
         
-        # Pop operations
-        for i in range(2):
+        # Pop operations (3 pops to get back to 0)
+        for i in range(3):
             self.stack.pop()
             actual_sizes.append(self.stack.size())
         
