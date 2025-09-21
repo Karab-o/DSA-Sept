@@ -308,5 +308,5 @@ def to_list(self):
 ---
 
 **Author**: Karabo Divine 
-**Course**: Data Structures Implementation Lab  
+**Course**: Entreprise Web Development
 **Date**: September 9, 2025  
