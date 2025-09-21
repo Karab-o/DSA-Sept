@@ -1,4 +1,4 @@
-# Data Structures Implementation Lab - Stack
+# DSA Sept - Stack
 
 ## Overview
 
